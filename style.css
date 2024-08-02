@@ -1,0 +1,88 @@
+body {
+   font-family: "Signika Negative", "consolas", "sans-serif";
+   font-weight: bold;
+   padding:0px
+}
+
+.wrapper-main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    color:rgb(255, 204, 37);
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight:normal;
+}
+
+p {
+    font-size: 25px;
+    font-weight:normal;
+}
+
+.container{
+    text-align: center;
+    position: relative;
+}
+
+.btn{
+    font-family: "Signika Negative", "consolas", "sans-serif";
+    font-size: 20px;
+    background: white;
+    border-width: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color:rgb(247, 195, 22);
+}
+
+.title{
+    font-family: "Signika Negative", "consolas", "sans-serif";
+    font-size: 80px;
+    background: none;
+    border-width: 0;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:rgb(247, 195, 22);
+}
+.title:hover{
+    color:rgb(247, 195, 22);
+}
+
+#contact:hover{
+    color:black;
+    background-color: rgb(247, 195, 22);
+}
+
+#list1{
+    text-align:left;
+    position: absolute;
+    left: 30%;
+}
+
+#list2{
+    text-align:left;
+    position: absolute;   
+    left: 60%;
+}
